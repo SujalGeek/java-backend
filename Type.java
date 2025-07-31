@@ -18,7 +18,7 @@ public class Type {
     byte number2 = 30;
     int result = number1 * number2; // Type promotion occurs here
     System.out.println("Result of byte multiplication (promoted to int): " + result);
-    char c = "a";
+    // char c = "a";
     System.out.println("Character value: " + c);
   }
 

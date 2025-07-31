@@ -1,5 +1,3 @@
-package begineer;
-
 class literal {
   public static void main(String args[]) {
     int num1 = 0b101;
